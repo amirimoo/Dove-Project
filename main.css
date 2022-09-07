@@ -1,0 +1,11 @@
+@font-face {
+    font-family: yekan;
+    src: url(./fonts/a3xd_iranyekanwebbold.ttf);
+}
+
+* {
+    font-family: yekan;
+}
+nav form input {
+    margin-left: 550px;
+}
